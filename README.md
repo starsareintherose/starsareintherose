@@ -16,7 +16,7 @@
 
 ## About Tech
 
-- :crossed_swords: C\C++ [ just begin ]
+- :crossed_swords: C/C++ [ just begin ]
 - :gear: Arch Linux / Gnome / Vim 
 - :dna: Maintaining [BioArchLinux](https://github.com/BioArchLinux) and 50+ AUR packages
 - :books: [MalacoWiki](https://wiki.malacology.net/)
