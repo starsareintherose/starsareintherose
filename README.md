@@ -1,7 +1,5 @@
 ## About Me
 
-- Hi, I’m Guoyi (she/her/they)
-
 ### **MMA**
 
 - :snail: Malacologist
@@ -11,7 +9,7 @@
 
 ## About Tech
 
-- :crossed_swords: C/C++ [ just begin ]
+- :crossed_swords: C/C++ [ just begin ] Lua 
 - :gear: Arch Linux / Gnome / Vim 
 - :dna: Maintaining [BioArchLinux](https://github.com/BioArchLinux) and 150+ AUR packages
 - :books: [MalacoKnowledge](https://knwl.malacology.net/)
