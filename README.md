@@ -1,4 +1,6 @@
-## About Me
+
+
+[![Pleroma Badge](https://img.shields.io/badge/Pleroma-ff9700?style=for-the-badge&logo=pleroma&logoColor=white)](https://social.malacology.net/@malacology) [![GMAIL_Badge](https://img.shields.io/badge/email-ff84a0?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guoyizhang@malacology.net) [![ORCiD Badge](https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0001-7665-9547)  [![GPG Badge](https://img.shields.io/badge/GPG-00b0ff?style=for-the-badge&logo=gnuprivacyguard&logoColor=white)](https://keys.openpgp.org/search?q=892EBC7DC392DFF9C9C03F1D15F4180E73787863)
 
 ### **MMA**
 
@@ -7,14 +9,12 @@
 - :penguin: Arch(Linux)er
 
 
-## About Tech
+### Details
 
 - :crossed_swords: C/C++ [ just begin ] Lua 
 - :gear: Arch Linux / Gnome / Vim 
 - :dna: Maintaining [BioArchLinux](https://github.com/BioArchLinux) and 150+ AUR packages
 - :books: [MalacoKnowledge](https://knwl.malacology.net/)
-- :email: [![Send me Email](https://img.shields.io/static/v1?label=email&message=guoyizhang@malacology.net&color=blue&style=flat-square)](mailto:guoyizhang@malacology.net)
-- :key: [![PGP Key](https://img.shields.io/static/v1?label=PGP&message=B1F96021DB62254D&color=blue&style=flat-square)](https://keys.openpgp.org/search?q=892EBC7DC392DFF9C9C03F1D15F4180E73787863)
 
 <!---
 starsareintherose/starsareintherose is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
